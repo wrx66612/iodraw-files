@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="https://www.bilibili.com/video/BV1fM411Z7cW" link="https://www.bilibili.com/video/BV1fM411Z7cW" id="BYpFZA3FRE_shXdFKVw6-4">
+        <UserObject label="嘉立创EDA学习https://www.bilibili.com/video/BV1fM411Z7cW" link="https://www.bilibili.com/video/BV1fM411Z7cW" id="BYpFZA3FRE_shXdFKVw6-4">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
             <mxGeometry x="220" y="90" width="280" height="40" as="geometry" />
           </mxCell>
