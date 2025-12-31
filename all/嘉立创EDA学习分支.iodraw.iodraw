@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="https://www.bilibili.com/video/BV1fM411Z7cW" link="https://www.bilibili.com/video/BV1fM411Z7cW" id="BYpFZA3FRE_shXdFKVw6-1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="330" y="90" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
